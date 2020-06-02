@@ -1,0 +1,15 @@
+C:\Users\Matias\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\TP7.csprojAssemblyReference.cache
+C:\Users\Matias\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\TP7.csproj.GenerateResource.cache
+C:\Users\Matias\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\TP7.AssemblyInfoInputs.cache
+C:\Users\Matias\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\TP7.AssemblyInfo.cs
+C:\Users\Matias\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\TP7.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\TrabajoPractico7.Form1.resources
+C:\Users\Matias\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\TP7.exe
+C:\Users\Matias\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\TP7.deps.json
+C:\Users\Matias\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\TP7.runtimeconfig.json
+C:\Users\Matias\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\TP7.runtimeconfig.dev.json
+C:\Users\Matias\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\TP7.dll
+C:\Users\Matias\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\TP7.pdb
+C:\Users\Matias\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\TP7.dll
+C:\Users\Matias\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\TP7.pdb
+C:\Users\Matias\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\TP7.genruntimeconfig.cache

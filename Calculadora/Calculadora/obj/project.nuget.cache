@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mk74hvNNm8T+aGHfXFbKKAHjoKa7SnO/ReFuFKceN3OzzobPkOSQ/+8PMc8dLTpL6+2+WbU7y+cXEfUdnrd2CA==",
+  "success": true,
+  "projectFilePath": "C:\\Repogit\\tpn7-MartinezMatiasMaximiliano\\Calculadora\\Calculadora\\TP7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matias\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
